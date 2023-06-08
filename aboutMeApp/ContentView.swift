@@ -33,7 +33,7 @@ struct ContentView: View {
                     .padding()
                 Spacer()
                 Button("Click Me!") {
-                    textTile = "- My family consists of my twin brother, two moms and a dog!!!                                               - This is my third year in KWK.                                            - I am on the Spebate and Mock Trial team!                                            -I like to crochet!"
+                    textTile = "- My family consists of my twin brother, two moms and a dog!!!                                               - This is my 3rd year in KWK.                                            - I am on the Spebate and Mock Trial team!                                            -I like to crochet!"
                     
                 }
             }
